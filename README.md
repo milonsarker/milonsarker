@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milonsarker
 - 👀 I’m interested in Problem Solving, System Designing. 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML/Deel Learning/Open Source Projects
+- 💞️ I’m looking to collaborate on ML/Deep Learning/Open Source Projects
 - 📫 How to reach me : milon.sarker@gmail.com
 
 <!---
