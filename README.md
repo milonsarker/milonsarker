@@ -10,18 +10,38 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# [Md Milon Sarker]
+<h1 align="center">Md Milon Sarker</h1>
+<p align="center">Lubbock, TX | milon.sarker@gmail.com | (806) 470-9458 | linkedin.com/in/milonsarker/ | github.com/milonsarker</p>
 
-## About Me
+## SUMMARY
 
 Looking to help data-driven organizations by utilizing my 6+ years of real-world complex problem-solving experiences specializing in high-scale analytic workloads running on Oracle and Hadoop Ecosystem, with a strong understanding of each level of the Enterprise Data Warehouse and Analytics ecosystem with a solid understanding of end-to-end needs.
 
-## Skills
+## TECHNICAL SKILLS
+<table border="0">
+<tr><td>
 
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
+- Python
+- PL/SQL (Oracle)
+- Shell Script
+- MySQL
+
+</td><td>
+
+- Python
+- PL/SQL (Oracle)
+- Shell Script
+- MySQL
+
+</td><td>
+
+- Apache Airflow
+- Data structures 
+- Algorithm
+- AWS - Redshift
+
+</td></tr>
+</table>
 
 ## Experience
 
