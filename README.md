@@ -6,29 +6,29 @@
 Looking to help data-driven organizations by utilizing my 6+ years of real-world complex problem-solving experiences specializing in high-scale analytic workloads running on Oracle and Hadoop Ecosystem, with a strong understanding of each level of the Enterprise Data Warehouse and Analytics ecosystem with a solid understanding of end-to-end needs.
 
 ## TECHNICAL SKILLS
-<table border="0">
-<tr><td>
+<table style="border: none;">
+<tr><td style="border: none;">
 
 - Python
 - PL/SQL (Oracle)
 - Shell Script
 - MySQL
 
-</td><td>
+</td><td style="border: none;">
 
 - Python
 - PL/SQL (Oracle)
 - Shell Script
 - MySQL
 
-</td><td>
+</td><td style="border: none;">
 
 - Apache Airflow
 - Data structures 
 - Algorithm
 - AWS - Redshift
 
-</td><td>
+</td><td style="border: none;">
 
  - AWS – Glue
  - AWS – Databases
@@ -88,10 +88,11 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 
 ## EDUCATION
 
-<h4><span style="display: block;">Texas Tech University, Rawls College of Business</span><span style="float: right;">Lubbock, TX</span></h4>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Master of Science in Data Science</i></span><span style="float: right;">June 2022 – May 2023</span></p>
-<h4><span style="display: block;">Khulna University of Engineering and Technology</span><span style="float: right;">Khulna, Bangladesh</span></h4>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Bachelor of Science in Computer Science and Engineering</i></span><span style="float: right;">February 2011 – June 2015</span></p>
+<h4 margin-bottom: 0;>Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
+<p style="padding-left: 1em; margin-top: 0;"><i>Master of Science in Data Science<br>June 2022 – May 2023</i></p>
+
+<h4>Khulna University of Engineering and Technology, Khulna, Bangladesh</h4>
+<p style="padding-left: 1em;"><i>Bachelor of Science in Computer Science and Engineering</i><br>February 2011 – June 2015</p>
 
 ## PROJECTS
 
