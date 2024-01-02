@@ -33,7 +33,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - AWS – Glue
  - AWS – Databases
  - AWS – Sagemaker
- - AWS – EC2
+
 
 </td></tr>
 </table>
