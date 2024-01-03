@@ -88,7 +88,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 
 ## EDUCATION
 
-<h4 margin-bottom: 0;>Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
+<h4 style="margin-bottom: 0;">Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
 <p style="padding-left: 1em; margin-top: 0;"><i>Master of Science in Data Science<br>June 2022 – May 2023</i></p>
 
 <h4>Khulna University of Engineering and Technology, Khulna, Bangladesh</h4>
@@ -99,6 +99,3 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 - [Project 1](link to project 1): Brief description of project 1
 - [Project 2](link to project 2): Brief description of project 2
 - ...
-
-
-<br>
