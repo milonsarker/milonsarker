@@ -88,9 +88,6 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 
 ## EDUCATION
 
-#### Texas Tech University, Rawls College of Business, Lubbock, TX
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science
-
 <h4 margin-bottom: 0;>Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
 <p style="padding-left: 1em; margin-top: 0;"><i>Master of Science in Data Science<br>June 2022 – May 2023</i></p>
 
