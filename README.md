@@ -105,36 +105,3 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 
 
 <br>
-
-<div style="display: flex; justify-content: space-between;">
-
-<div>
-
-- Python
-- PL/SQL (Oracle)
-- Shell Script
-- MySQL
-
-</div><div>
-
-- Python
-- PL/SQL (Oracle)
-- Shell Script
-- MySQL
-
-</div><div>
-
-- Apache Airflow
-- Data structures 
-- Algorithm
-- AWS - Redshift
-
-</div><div>
-
- - AWS – Glue
- - AWS – Databases
- - AWS – Sagemaker
- - AWS – EC2
-
-</div>
-</div>
