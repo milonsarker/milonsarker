@@ -57,8 +57,8 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Worked closely with the primary teacher to provide instructional support, including small-group instruction, facilitating discussions, and assisting students individually.
  - Graded assignments, tests, and exams, ensuring consistency and fairness based on the provided guidelines.
 
-<h3><span style="display: block;">Robi Axiata Limited</span><span style="float: right;">Dhaka, Bangladesh</span></h3>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Senior Data Engineer</i></span><span style="float: right;">October 2019 – August 2022</span></p>
+<h3><span style="display: block;">Robi Axiata Limited, Dhaka, Bangladesh</span></h3>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Senior Data Engineer | October 2019 – August 2022</span></p>
 
  - Defined, developed and managed the EDW and Analytics architecture to meet Enterprise’s Business analytics and reporting needs.
  - Designed, developed and collaborated on Big Data ETL project to transform data loading in Hadoop Ecosystem. 
@@ -78,8 +78,8 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Performed impact analysis for proposed changes to the data warehouse and analytics architecture.
  - Used Gitlab, Jenkins for Continuous Integration/Continuous Delivery and Deployment(CI/CD). 
 
-<h3><span style="display: block;">Accenture</span><span style="float: right;">Dhaka, Bangladesh</span></h3>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Software Engineering Associate</i></span><span style="float: right;">December 2015 – February 2017</span></p>
+<h3><span style="display: block;">Accenture, Dhaka, Bangladesh</span></h3>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Software Engineering Associate | December 2015 – February 2017</span></p>
 
  - Developed data pipelines and data solutions using CI/CD method following ADM guidelines using Gitlab.
  - Ensured SLA of Mediation Systems Services and day to day operation to meet business requirement and KPI.
@@ -91,7 +91,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 <h4 style="margin-bottom: 0;">Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
 <p style="padding-left: 1em; margin-top: 0;"><i>Master of Science in Data Science<br>June 2022 – May 2023</i></p>
 
-<h4>Khulna University of Engineering and Technology, Khulna, Bangladesh</h4>
+<h4 style="margin-bottom: 0;">Khulna University of Engineering and Technology, Khulna, Bangladesh</h4>
 <p style="padding-left: 1em;"><i>Bachelor of Science in Computer Science and Engineering</i><br>February 2011 – June 2015</p>
 
 ## PROJECTS
