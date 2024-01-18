@@ -68,7 +68,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Developed and managed APIs using Python FastAPI. Used numerous APIs for building data pipelines.
  - Developed POC projects using KAFKA/Apache Flink and AWS Technologies using AWS Redshift, Glue, S3, EC2. 
 
-<p style="padding-left: 1em;"><span style="display: block;"><i>Data Engineer</i></span><span style="float: right;">March 2017 – October 2019</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Data Engineer | March 2017 – October 2019</span></p>
 
  - Developed data live loading framework using parallel processing, which reduced processing time from 12-15 hours to 2 hours using Python, PL/SQL and Shell Scripts.
  - Defined and implemented ETL processes to load data from different source systems into the data warehouse.
