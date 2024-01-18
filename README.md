@@ -40,7 +40,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 
 ## EXPERIENCE
 
-<h3><span style="display: block;">Texas Tech University</span><span style="float: right;">Lubbock, TX</span></h3>
+<h3><span style="display: block;">Texas Tech University | Lubbock, TX</span></h3>
 <p style="padding-left: 1em;"><span style="display: block;"><i>Programmer Analyst III | June 2023 – Present</span></p>
 
  - Develop, test, analyze, and maintain software applications in support of business requirements.
