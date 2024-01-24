@@ -58,7 +58,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Graded assignments, tests, and exams, ensuring consistency and fairness based on the provided guidelines.
 
 <h3><span style="display: block;">Robi Axiata Limited, Dhaka, Bangladesh</span></h3>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Senior Data Engineer | October 2019 – August 2022</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Senior Data Engineer | October 2019 – August 2022</i></span></p>
 
  - Defined, developed and managed the EDW and Analytics architecture to meet Enterprise’s Business analytics and reporting needs.
  - Designed, developed and collaborated on Big Data ETL project to transform data loading in Hadoop Ecosystem. 
@@ -68,7 +68,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Developed and managed APIs using Python FastAPI. Used numerous APIs for building data pipelines.
  - Developed POC projects using KAFKA/Apache Flink and AWS Technologies using AWS Redshift, Glue, S3, EC2. 
 
-<p style="padding-left: 1em;"><span style="display: block;"><i>Data Engineer | March 2017 – October 2019</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Data Engineer | March 2017 – October 2019</i></span></p>
 
  - Developed data live loading framework using parallel processing, which reduced processing time from 12-15 hours to 2 hours using Python, PL/SQL and Shell Scripts.
  - Defined and implemented ETL processes to load data from different source systems into the data warehouse.
@@ -79,7 +79,7 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
  - Used Gitlab, Jenkins for Continuous Integration/Continuous Delivery and Deployment(CI/CD). 
 
 <h3><span style="display: block;">Accenture, Dhaka, Bangladesh</span></h3>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Software Engineering Associate | December 2015 – February 2017</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Software Engineering Associate | December 2015 – February 2017</i></span></p>
 
  - Developed data pipelines and data solutions using CI/CD method following ADM guidelines using Gitlab.
  - Ensured SLA of Mediation Systems Services and day to day operation to meet business requirement and KPI.
