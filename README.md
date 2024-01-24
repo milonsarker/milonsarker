@@ -41,13 +41,13 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 ## EXPERIENCE
 
 <h3><span style="display: block;">Texas Tech University | Lubbock, TX</span></h3>
-<p style="padding-left: 1em;"><span style="display: block;"><i>Programmer Analyst III | June 2023 – Present</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Programmer Analyst III | June 2023 – Present</i></span></p>
 
  - Develop, test, analyze, and maintain software applications in support of business requirements.
  - Research, design, document, and modify software specifications throughout the production life cycle. 
  - Supervising and/or leading the development of new systems, directing changes to existing systems and controlling the interfaces between the systems, initiating complex feasibility studies and making recommendations of the action to be taken.
 
-<p style="padding-left: 1em;"><span style="display: block;"><i>Data Analyst | September 2022 – May 2023</span></p>
+<p style="padding-left: 1em;"><span style="display: block;"><i>Data Analyst | September 2022 – May 2023</i></span></p>
 
  - Collect and analyze data to create reports for informed decision-making.
  - Prepare demographic reports about Rawls College students, including information on age, gender, race/ethnicity, socioeconomic status, and geographic location.
