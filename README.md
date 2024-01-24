@@ -91,6 +91,9 @@ Looking to help data-driven organizations by utilizing my 6+ years of real-world
 <h4 style="margin-bottom: 0;">Texas Tech University, Rawls College of Business, Lubbock, TX</h4>
 
 ### Texas Tech University, Rawls College of Business, Lubbock, TX
+<i>Master of Science in Data Science | June 2022 – May 2023</i>
+
+
 <p style="padding-left: 1em; margin-top: 0;"><i>Master of Science in Data Science | June 2022 – May 2023</i></p>
 
 <h4 style="margin-bottom: 0;">Khulna University of Engineering and Technology, Khulna, Bangladesh</h4>
